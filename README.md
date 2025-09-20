@@ -9,10 +9,9 @@
 </div>
 
 
-Welcome to my journey through the **SoC Tapeout Program VSD**!  
-This repository documents my **week-by-week progress** with tasks inside each week.  
+This repository serves as a log of my week-by-week progress, detailing the tasks I've completed.
 
-"In this program, we learn to design a System-on-Chip (SoC) from basic RTL to GDSII using open-source tools. Part of India’s largest collaborative RISC-V tapeout initiative, empowering 3500+ participants to build silicon and advance the nation’s semiconductor ecosystem
+The program's objective is to teach us how to design a System-on-Chip (SoC), from the foundational RTL (Register-Transfer Level) all the way to a finished GDSII file, utilizing open-source tools. This is a key part of India's most extensive collaborative RISC-V tapeout project, designed to empower over 3500 individuals to create their own silicon and contribute to the growth of the nation's semiconductor industry.
 
 ---
 
